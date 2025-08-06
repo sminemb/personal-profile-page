@@ -31,7 +31,7 @@ A modern, responsive personal profile website built with React and Vite. This pr
 1. Clone the repository
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/sminemb/personal-profile-page.git
 ```
 
 2. Install dependencies
@@ -45,8 +45,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-The application will start running at `http://localhost:5173`
 
 ## Available Scripts
 
